@@ -1,6 +1,8 @@
 本地仓库config配置
 
-```
+----------
+
+```c
 [core]
     repositoryformatversion = 0
     filemode = false
