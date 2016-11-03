@@ -10,3 +10,5 @@
   * [git一个本地仓库提交到2个账户仓库](git/git一个本地仓库提交到2个账户仓库.md)
 * [Nodejs](nodejs/readme.md)
   * [nodejs的nmp与npm-cache目录修改](nodejs/nodejs的nmp与npm-cache目录修改.md)
+* [windows](windows/readme.md)
+  * [win10简单优化](windows/win10简单优化.md)

@@ -10,7 +10,7 @@
 	"highlight",
 	"-sharing",
 	"-search",
-    "-expandable-chapters",
+    "expandable-chapters",
 	"splitter",
 	"toc",
 	"github"
