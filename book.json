@@ -1,0 +1,36 @@
+{
+    "language": "zh-hans",
+    "variables": {
+        "title": "HandBook",
+        "theme": "theme-gray"
+    },
+    "collapsible_menu":true,
+    "level_number":false,
+    "plugins": [
+	"highlight",
+	"-sharing",
+	"-search",
+    "-expandable-chapters",
+	"splitter",
+	"toc",
+	"github"
+    ],
+    "pluginsConfig": {
+		"github": {
+            "url": "https://github.com/"
+        }
+    },
+	    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 40,
+            "right": 40,
+            "top": 36
+        },
+        "pageNumbers": true,
+        "paperSize": "a4"
+    }
+}
