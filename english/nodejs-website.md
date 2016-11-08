@@ -1,7 +1,5 @@
 ### Nodejs-website translate
 
-----------
-
 Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. 
 > Node.js是一个基于Chrome的V8 JavaScript引擎的JavaScript运行时环境。
 

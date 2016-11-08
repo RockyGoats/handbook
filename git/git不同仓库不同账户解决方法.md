@@ -1,6 +1,6 @@
 ### 一台电脑中git管理多个github仓库账户
 
-----------
+
 
 参考：
 * [http://www.cnblogs.com/xjnotxj/p/5845574.html](http://www.cnblogs.com/xjnotxj/p/5845574.html)
@@ -11,7 +11,7 @@
 
 ### 一、生成两个SSH key ###
 
-----------
+
 
 为了举例方便，这里使用“one”和“two”两个账户。下同。
 
@@ -25,7 +25,7 @@ $ ssh-keygen -t rsa -C "two@gmail.com"
 
 ### 二、添加私钥 ###
 
-----------
+
 
 (1)如果你是github官方的bash：
 ```
@@ -45,7 +45,7 @@ $ ssh-add ~/.ssh/id_rsa_two
 
 ###  三、创建config文件 ###
 
-----------
+
 
 ```
 $ touch config
@@ -81,13 +81,13 @@ $ touch config
 ```
 ### 四、部署SSH key ###
 
-----------
+
 
 分别登陆两个github账号，进入Personal settings –> SSH and GPG keys：
 
 ### 五、使用 ###
 
-----------
+
 
 1、clone到本地
 

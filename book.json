@@ -4,7 +4,7 @@
         "title": "HandBook",
         "theme": "theme-gray"
     },
-    "collapsible_menu":true,
+    "collapsible_menu":false,
     "level_number":false,
     "plugins": [
 	"highlight",

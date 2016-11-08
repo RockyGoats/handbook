@@ -1,5 +1,5 @@
 1.修改`listener.ora`和`tnsnames.ora`两个文件
-进入$ORACLE_HOME\NETWORK\ADMIN 修改listener.ora和tnsnames.ora两个文件，把这两个文件里面内容host名部分，由原来旧HOST更改为新的HOST名 ；如图：
+进入`$ORACLE_HOME\NETWORK\ADMIN` 修改`listener.ora`和`tnsnames.ora`两个文件，把这两个文件里面内容`host`名部分，由原来旧`HOST`更改为新的`HOST`名 ；如图：
 
 ----------
 
@@ -19,7 +19,7 @@
 ----------
 
 3.修改注册表:
-左下角开始—搜索程序和程序名--输入regedit回车打开注册表，找到`HKEY_LOCAL_MACHINE-software-oracle`右键后查找host关键字，然后更新为新的主机名；
+左下角开始—搜索程序和程序名--输入`regedit`回车打开注册表，找到`HKEY_LOCAL_MACHINE-software-oracle`右键后查找`host`关键字，然后更新为新的主机名；
 
 ----------
 

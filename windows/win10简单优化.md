@@ -1,11 +1,11 @@
 ### 1.安装完win10纯净版后，去掉win10自动升级
 
-----------
+
 
 打开任务管理器——找到服务——window update——修改属性为禁止升级
 ### 2.激活系统
 
-----------
+
 
 KMSpico链接：[http://pan.baidu.com/s/1cFtrFS](http://pan.baidu.com/s/1cFtrFS) 密码：[fixj](fixj)  
 KMS_VL_ALL链接：[http://pan.baidu.com/s/1hsjYXqk](http://pan.baidu.com/s/1hsjYXqk) 密码：[ezw2](ezw2)  
@@ -13,7 +13,7 @@ win10激活批处理kms-bat链接：[http://pan.baidu.com/s/1mhGKAhU](http://pan
 
 ### 3.删除onedrive
 
-----------
+
 
 1） 关于禁止onedrive自启动简单的就是在任务管理器的启动中禁用onedrive的启动项目就可以。
 
@@ -47,7 +47,7 @@ HKEY_CLASSES_ROOT\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}\ShellFolder
 
 ### 4.安装framework3.5
 
-----------
+
 
 把原版镜像里的sxs解压放在盘根目录下:  
 打开cmd:  
