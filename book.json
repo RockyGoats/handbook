@@ -11,7 +11,7 @@
 	"-sharing",
 	"-search",
     "expandable-chapters",
-	"splitter",
+	"-splitter",
 	"toc",
 	"github"
     ],
